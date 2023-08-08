@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: bisque;
+    padding: 0.5em;
+    margin-bottom: 0.25em;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 48px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+li {
+    padding: 0.5em;
+}
