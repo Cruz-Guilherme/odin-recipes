@@ -3,7 +3,7 @@ Repo do primeiro projeto de HTML do Odin
 
 Elaboração de uma página utilizando apenas HTML básico aprendido no curso de fundação do site https://www.theodinproject.com
 
-O projeto é https://www.theodinproject.com/lessons/foundations-recipes
+Site: https://cruz-guilherme.github.io/odin-recipes/
 
 Neste projeto utilizei conhecimentos de git e HTML:
 1) criar repos
